@@ -1,1 +1,1 @@
-# borders-margins-paddings
+# borders-margins-padding
